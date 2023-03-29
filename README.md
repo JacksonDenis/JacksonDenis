@@ -2,18 +2,18 @@
 
 ![Jackson Denis](https://media.licdn.com/dms/image/C4D16AQGOV4xLEs_69w/profile-displaybackgroundimage-shrink_350_1400/0/1642459219810?e=1685577600&v=beta&t=4dY98FHggx4UeIwNeAEfwLdzhFdWwP4FluPa98glqoo)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá! eu sou Jackson</h2>
 
 <!-- ## 👋 &nbsp;Olá! eu sou Jackson -->
 
 ### 👨🏻‍💻 &nbsp; Sobre mim
 
 💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluçoes rapidas e praticas\
-🎓 &nbsp;Atualemnte estou cursando Engenharia da computação na faculdade ENIAC\
+🎓 &nbsp;Atualmente estou cursando Engenharia da computação na faculdade ENIAC\
 🌱 &nbsp;Sempre procuro estudar o uso do codigo limpo e o uso de ferramentas para otimizar meu trabalho.\
 ✍️ &nbsp;Sou apaixonado por series, livros, games e animes \
-💬 &nbsp;Estou totalemte disponivel para sanar qualquer duvida\
-✉️ &nbsp;Pode enviar um email para jackson.denis@live.com\
+💬 &nbsp;Estou sempre disponivel para sanar qualquer duvida\
+✉️ &nbsp;Pode enviar um email para jackson.denis@live.com.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -40,25 +40,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/JacksonDenis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacksonDenis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JacksonDenis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contatos
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jackson-denis/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/jacksondenis/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 </p>
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
