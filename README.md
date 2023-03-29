@@ -6,7 +6,7 @@
 
 
 
-![Jackson Denis]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://media.licdn.com/dms/image/C4D16AQGOV4xLEs_69w/profile-displaybackgroundimage-shrink_350_1400/0/1642459219810?e=1685577600&v=beta&t=4dY98FHggx4UeIwNeAEfwLdzhFdWwP4FluPa98glqoo))
+![Jackson Denis](https://media.licdn.com/dms/image/C4D16AQGOV4xLEs_69w/profile-displaybackgroundimage-shrink_350_1400/0/1642459219810?e=1685577600&v=beta&t=4dY98FHggx4UeIwNeAEfwLdzhFdWwP4FluPa98glqoo)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
