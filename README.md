@@ -49,8 +49,8 @@
 ### 🤝🏻 &nbsp;Contatos
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jackson-denis/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/jacksondenis/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jackson-denis/"><img src="https://img.shields.io/badge/-Jackson%20Denis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/jacksondenis/"><img src="https://img.shields.io/badge/-@jacksondenis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
